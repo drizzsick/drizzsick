@@ -3,7 +3,7 @@
 Soy un estudiante de Ingeniería Civil Informática en la Universidad Técnica Federico Santa María. Me apasiona la ingeniería de software y todo lo relacionado con el diseño, desde la arquitectura de software hasta la experiencia de usuario. Siempre estoy buscando nuevas oportunidades para aprender, mejorar mis habilidades y aplicar mis conocimientos en proyectos desafiantes.<br><br>Me encanta la idea de construir soluciones innovadoras que no solo sean funcionales, sino también intuitivas y bien diseñadas. Disfruto trabajar en equipo, compartir ideas y nutrirme de diferentes perspectivas, ya que creo que la colaboración es clave para el crecimiento y la creatividad.<br><br>Estoy motivado por la tecnología y el aprendizaje continuo, y estoy abierto a participar en proyectos que me ayuden a expandir mis horizontes y desarrollar mis habilidades. ¡Siempre listo para un nuevo reto! 🚀<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Mis Redes :3 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sickweast) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osue-zepeda23) 
 
 # 💻 Tech Stack:
